@@ -16,7 +16,7 @@ It is based on **12-COL** Grid. The Number of columns in a row show always sum t
 ## LINKS 
 Documentation - will be updated soon
 
-Demo - will be updated soon
+[Live Demo](http://codepen.io/Pothula/pen/bgwmvj/?editors=1100)
 
 ## CSS CLASSES 
 * xs  - For device with 4-inch and less. (Eg: div class="xs-12")
