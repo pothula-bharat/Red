@@ -18,6 +18,14 @@ Documentation - will be updated soon
 
 Demo - will be updated soon
 
+## CSS CLASSES 
+* xs  - For device with 4-inch and less. (Eg: div class="xs-12")
+* s   - For device above 4-inch. (Eg: div class="xs-12 s-12")
+* m   - For Phablets and Tablets (Portrait). (Eg: div class="xs-12 s-12 m-6")
+* l   - For Tablets (Landscape) and Desktop. (Eg: div class="xs-12 s-12 m-6 l-4")
+* xl  - For Desktop > 1200px. (Eg: div class="xs-12 s-12 m-6 l-4 xl-4")
+* xxl - For Desktop > 1800px. (Eg: div class="xs-12 s-12 m-6 l-4 xl-4 xxl-3")
+
 ## USAGE
 
 1. Include meta tag for viewport.
