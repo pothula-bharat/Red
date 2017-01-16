@@ -1,7 +1,7 @@
 # Alpha v 1.0.0
 Alpha is a LAYOUT Framework for CSS while maintaining vertical rhythm and progressive typography styles.
 
-Alpha is based on **FLEXBOX**. This makes it not much backward compatible. So, i suggest you to add a polyfill. 
+Alpha is based on **FLEXBOX**. This makes it not much backward compatible. So, i suggest you to add a polyfill for older browser (I.E). 
 
 It is based on **12-COL** Grid. The Number of columns in a row show always sum to 12. If the sum of columns is greater than 12 ( >12) then the grid will collapse or overflows.
 
