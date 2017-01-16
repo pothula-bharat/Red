@@ -14,6 +14,6 @@ It is based on **12-COL** Grid. The Number of columns in a row show always sum t
 * Body text is based on Wider sans-serif whereas headings are based on narrower serif.
 
 ### Links 
-[Documentation]()
+Documentation - will be updated soon
 
-[Demo]()
+Demo - will be updated soon
