@@ -30,6 +30,6 @@ Documentation - will be updated soon
 
 1. Include meta tag for viewport.
 2. In the body section **main** is the main container for all the elements.
-3. Create a row for creating column.
+3. Create a row for containing column.
 4. Now create any block element and add desired classes (eg: div class="xs-12 s-6 m-4 l-4 xl-4 xxl-4" ).
 5. **Advanced usage** - You can nest a column class in another column.
