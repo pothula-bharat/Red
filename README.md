@@ -1,4 +1,4 @@
-# Alpha
+# Alpha v 1.0.0
 Alpha is a LAYOUT Framework for CSS while maintaining vertical rhythm and progressive typography styles.
 It is based on 12-COL Grid. The Number of columns in a row show always sum to 12. If the sum of columns is greater than 12 ( >12) then the grid will collapse or overflow occurs.
 
