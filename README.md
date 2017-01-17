@@ -1,4 +1,4 @@
-# Alpha v 1.0.0
+# Alpha v 1.0.1
 Alpha is a LAYOUT Framework for CSS while maintaining vertical rhythm and progressive typography styles.
 
 Alpha is based on **FLEXBOX**. This makes it not much backward compatible. So, i suggest you to add a polyfill. 
