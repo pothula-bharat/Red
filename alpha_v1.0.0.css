@@ -1,9 +1,9 @@
 @charset 'UTF-8';
 /* Author: P Bharat Kumar Reddy.
-*	Published : 3-12-2016.
-*	This layout cover phones,tablet (portrait & landscape),desktop and higher.
-*	This is based on flex property.
-*	The layout consist of 12 columns only. Each column is 8% wide with respect to viewport.
+* Published : 3-12-2016.
+* This layout cover phones,tablet (portrait & landscape),desktop and higher.
+* This is based on flex property.
+* The layout consist of 12 columns only. Each column is 8% wide with respect to viewport.
 * Typography size is calculated base on Major Third ratio
 */
 * {
@@ -79,7 +79,7 @@ p {
   display: none; }
 
 main {
-  width: 100% !important;
+  max-width: 100%;
   box-sizing: border-box; }
 
 /*
