@@ -1,9 +1,9 @@
-# Alpha v 1.0.1
-Alpha is a LAYOUT Framework for CSS while maintaining vertical rhythm and progressive typography styles.
+# Red v 1.1.0
+RED is a custom LAYOUT Framework for CSS. You can choose any how many columns you need and base font size.
 
-Alpha is based on **FLEXBOX**. This makes it not much backward compatible. So, i suggest you to add a polyfill for older browser (I.E). 
+Alpha is based on **FLEXBOX**. This makes it not much backward compatible. Polyfill is under-work. 
 
-It is based on **12-COL** Grid. The Number of columns in a row show always sum to 12. If the sum of columns is greater than 12 ( >12) then the grid will collapse or overflows.
+It is based on **CUSTOM COL** Grid. The Number of columns in a row show always sum to 12. If the sum of columns is greater than 12 ( >12) then the grid will collapse or overflows.
 
 **Note** : Vertical rhythm is based on default font-family provided. 
 
